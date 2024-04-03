@@ -1,4 +1,4 @@
 # Economic-Data-Analysis
 Economic Data Analysis project using Fred Python API and Pandas
-Data scraping, cleanin and exploration
+Data scraping, cleaning and exploration
 
